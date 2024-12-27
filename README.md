@@ -1,0 +1,2 @@
+# gocross
+linux
